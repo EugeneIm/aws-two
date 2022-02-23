@@ -1,0 +1,13 @@
+input
+{
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    left: 45%;
+}
+
+button
+{
+    position: relative;
+    left: 53%;
+}
